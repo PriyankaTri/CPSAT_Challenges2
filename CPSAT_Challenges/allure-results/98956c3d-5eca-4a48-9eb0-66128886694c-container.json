@@ -1,0 +1,1 @@
+{"uuid":"98956c3d-5eca-4a48-9eb0-66128886694c","name":"com.cpsat.qa.core.test.MeriPustakTest","start":1571893905026,"stop":1571893915113,"children":["610606a5-af8a-41df-bae2-93e6e01d1ee5"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","start":1571893905065,"stop":1571893905153}]}

@@ -1,0 +1,16 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="cpsatchallenges2">
+	<test name="testngTest">
+		
+		
+            <classes>
+			<class name="com.cpsat.qa.core.test.NSEIndiaTest2" />
+			<class name="com.cpsat.qa.core.test.NSEIndiaTest3" />
+			<class name="com.cpsat.qa.core.test.NSEIndiaTest4" />
+			<class name="com.cpsat.qa.core.test.NSEIndiaTest6" />
+			<class name="com.cpsat.qa.core.test.ShopperStop5" />
+		</classes> 
+        
+	</test>
+</suite>
